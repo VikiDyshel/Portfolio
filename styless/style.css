@@ -29,6 +29,21 @@ p{
     line-height:1;
     font-size:48px;
 }
+
+.about-section{
+    padding:150px 20px;
+}
+.about-section h1{
+font-size:64px;
+line-height:1;
+}
+.about-section h2{
+font-size:20px;
+}
+.me{
+    margin:0 auto;
+    border-radius:5%;
+}
 .btn-branding{
     background:#6c63ff;
     border-radius:4px;
@@ -61,5 +76,13 @@ p{
     .progect-description{
         padding: 0;
         text-align: center;
+    }
+    .about-section{
+        text-align:center;
+        padding:20px;
+    }
+    .about-section h1{
+        font-size:42px;
+
     }
 }
