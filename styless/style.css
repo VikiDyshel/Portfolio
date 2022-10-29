@@ -75,13 +75,6 @@ border-radius: 20px;
 .project-description{
     padding: 120px 60px;
 }
-nav ul{
-    margin:0;
-}
-nav li{
-    display: inline;
-    list-style: none;
-}
 
 @media (max-width:960px){
     h1{
