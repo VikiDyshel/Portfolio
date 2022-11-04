@@ -76,6 +76,35 @@ border-radius: 20px;
     padding: 120px 60px;
 }
 
+footer{
+    margin: 100px 0;
+}
+footer .contact-box{
+    background-color: rgb(94, 230, 230);
+    padding:30px;
+    border-radius:10px;
+}
+footer .email-link{
+    text-decoration: none;
+    color: black;
+    font-size:24px;
+}
+footer .email-link:hover{
+    color: #6c63ff;
+}
+footer .social-links a{
+margin: 0 20px;
+color: rgb(94, 230, 230);
+background-color: #6c63ff;
+padding:10px 14px;
+font-size: 18px;
+border-radius: 50%;
+transition:all 100ms ease-in-out;
+}
+footer .social-links a:hover{
+background-color: white;
+}
+
 @media (max-width:960px){
     h1{
         font-size: 60px;
